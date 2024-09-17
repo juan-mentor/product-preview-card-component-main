@@ -115,6 +115,11 @@ h3 {
     gap: 10px;
 }
 
+.hero__cta:hover {
+    background-color: var(--very-dark-blue);
+    cursor: pointer;
+}
+
 .hero__btn {
     border: none;
     background-color: transparent;
